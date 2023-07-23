@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      body {
+        direction: rtl;
+      }
+      .info {
+        font-size: 22px;
+        text-align: center;
+        line-height: 1.5;
+        background-color: #eee;
+        padding: 15px;
+        padding-top: 38px;
+        margin-bottom: 47px;
+      }
+
+      .info::before {
+        content: "ملاحظة مهمة";
+        background-color: #fff;
+        padding: 0 10px;
+        position: absolute;
+        right: -4px;
+        top: -1px;
+      }
+      .container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .question {
+        background-color: #eee;
+        padding: 15px;
+        margin: auto;
+        width: 200px;
+        font-size: 25px;
+        text-align: center;
+        user-select: none;
+      }
+      .score-cont {
+        margin: auto;
+        width: fit-content;
+        text-align: center;
+        display: none;
+      }
+      .score-cont span {
+        padding: 10px 25px;
+        font-weight: bold;
+        font-size: 21px;
+        color: white;
+        width: 30px;
+        float: left;
+        margin-left: 5px;
+        cursor: pointer;
+        user-select: none;
+        border-radius: 4px;
+        display: block;
+      }
+      .score-cont span.right {
+        background-color: #009688;
+      }
+
+      .score-cont span.wrong {
+        background-color: #e91e63;
+      }
+      .score-cont p {
+        user-select: none;
+      }
+      .progress {
+        width: 100%;
+        height: 3px;
+        display: block;
+        position: absolute;
+        left: 0;
+        bottom: calc(231px - 136px);
+      }
+      .results {
+        text-align: center;
+        padding: 15px;
+        background-color: #eee;
+        display: none;
+        width: 200px;
+        font-size: 25px;
+      }
+      .test {
+        display: none;
+      }
+      .start {
+        padding: 15px 20px;
+        background-color: #9e9e9e;
+        font-size: 30px;
+        color: white;
+        border-radius: 6px;
+        display: block;
+        text-align: center;
+      }
+    </style>
+
+    <div class="container">
+      <div class="info">
+        ترجم الجملة من العربية الى الانجليزية "شفاهيا" قبل ظهور الإجابة
+        <br />
+        في حال ظهور الإجابة قبل الترجمة تعتبر الإجابة خاطئة
+        <br />
+        اضغط على "نعم " اذا كانت اجابتك صحيحة و"لا" اذا كانت خاطئة
+      </div>
+
+      <span class="start">ابدأ الإختبار</span>
+      <div class="test">
+        <div class="question">
+          <p></p>
+          <span class="progress"></span>
+        </div>
+
+        <div class="score-cont">
+          <p>هل إجابتك صحيحة؟</p>
+          <span class="right">نعم</span>
+          <span class="wrong">لا</span>
+        </div>
+
+        <div class="results">exccelnt</div>
+      </div>
+    </div>
+
+    <script>
+      document.querySelector(".start").onclick = function () {
+        console.log("clicked");
+        document.querySelector(".test").style.display = "block";
+        document.querySelector(".info").style.display = "none";
+        this.style.display = "none";
+      };
+      let questions = [
+        "عماتي صبورات ",
+        " هل الطلاب يفهمون الدرس ",
+        " صديقي ليس مهرجا ",
+        " هل يذهب الى النادي الرياضي ",
+        " هل لديك شاي بالنكهات  ",
+        " أمي تطلب مني أن أفعل العديد من الأشياء  ",
+        " أتناو لالافطار وبعد >لك أبدأ في التمرن ",
+        " هل هناك خرائط  في فصلك الدراسي  ",
+        " شاهدت التلفاز مع عائلتي أمس ",
+        " الأسبوع الماضي ذهبنا الى حديقة الحيوانات  ",
+        " لم يلتقط الاولاد صورا في المتحف  ",
+        " اشترينا هداية تذكارية قيمة ",
+        " هل أعجبها المطعم ",
+        " هل شرب الرجل قهوته ",
+        " لا,لم يسافر الى ألمانيا ",
+        " أزين شقتي الجديدة ",
+      ];
+      let answers = [
+        " my aunts are patient  ",
+        " do the students understand the lesson ",
+        " my friend is not a clown ",
+        " does he go to the sports club ",
+        " do you have tea with flavours ",
+        " my mother asked me to do many things  ",
+        " I eat breack fast then I start to excercise ",
+        " are there maps in your class room ",
+        " I watched television with my family yesterday  ",
+        " last week we went to the zoo ",
+        " the boys didn't take picture at the museum ",
+        " we bought valuable souvenirs ",
+        " did she like the restaurent ",
+        " did the man drink his coffee ",
+        " no , he didnt travel to germany ",
+        " I decorate my flat ",
+        "  ",
+      ];
+
+      let grade = 0;
+      let currentq = 0;
+      let counter = 0;
+      let currenta = 0;
+      let QA = (document.querySelector(".question p ").innerHTML =
+        questions[currentq]);
+
+      let score = document.querySelectorAll(".score-cont span");
+      let score_cont = document.querySelector(".score-cont");
+
+      switch_data(score_cont);
+      score.forEach((e) => {
+        e.onclick = function () {
+          currentq++;
+          if (e.classList.contains("right")) {
+            grade++;
+          }
+          counter = 0;
+
+          let QA = (document.querySelector(".question p ").innerHTML =
+            questions[currentq]);
+          if (currentq === questions.length) {
+            e.parentElement.style.display = "none";
+            document.querySelector(".question").style.display = "none";
+            if (grade === questions.length) {
+              let result = document.querySelector(".results");
+              result.style.display = "block";
+              result.innerHTML = `excellent <br> اجاباتك الصحيحة  ${grade}`;
+            } else if (grade === questions.length / 2) {
+              let result = document.querySelector(".results");
+              result.style.display = "block";
+              result.innerHTML = `good job <br> اجاباتك الصحيحة  ${grade}`;
+            } else if (
+              grade < questions.length &&
+              grade > questions.length / 2
+            ) {
+              let result = document.querySelector(".results");
+              result.style.display = "block";
+              result.innerHTML = `acceptable  <br> اجاباتك الصحيحة  ${grade}`;
+            } else if (
+              grade < questions.length &&
+              grade < questions.length / 2
+            ) {
+              let result = document.querySelector(".results");
+              result.style.display = "block";
+              result.innerHTML = `bad  <br> اجاباتك الصحيحة  ${grade}`;
+            }
+          }
+          switch_data(score_cont);
+        };
+      });
+
+      function switch_data(score) {
+        score.style.display = "none";
+        let time = setInterval(() => {
+          if (counter === 6) {
+            let QA = (document.querySelector(".question p ").innerHTML =
+              answers[currenta]);
+            currenta++;
+            if (currenta !== answers.length + 1) {
+              score.style.display = "block";
+            }
+            clearInterval(time);
+          } else {
+            counter++;
+          }
+        }, 1000);
+      }
+    </script>
+  </body>
+</html>

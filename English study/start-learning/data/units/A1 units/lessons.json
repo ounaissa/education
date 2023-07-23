@@ -1,0 +1,525 @@
+[
+  {
+    "lesson-1": {
+      "title": "الحروف الأبجدية وتراكيب الحروف ",
+      "Words": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "Z",
+        "Y",
+        "Z"
+      ],
+      "explain": "<span>Ch --> </span><br><span class=\"block-direction\">النطق : تشا</span><br><span class=\"block-direction\">مثل : chair</span><hr> <span>sh --> </span><br><span class=\"block-direction\">النطق : شا</span><br><span class=\"block-direction\">مثل : ship | sheep </span> <hr> <span>th --> </span><br><span class=\"block-direction\">النطق : ثـ أو ذ  </span><br><span class=\"block-direction\">مثل : three | the  </span>"
+    },
+    "lesson-2": {
+      "title": "دمج الحروف و تكوين السؤال  ",
+      "Words": ["a chair", " a table", "a man", "a woman", "a cabinet"],
+      "explain": "<span>this : </span><span>هذا/ هذه</span><br><span>that : </span><span>ذلك / تلك </span><br><span> is : </span><span>يكون / تكون </span><hr><div  ><span class=\"block-direction\">تكوين السؤال : </span><br><span>this is a table => </span><span>is this a table</span> <br> <span>that is a woman => </span><span>is that a woman </span> <span class = \"block-direction\" >الشرح :</span><br><p class= \"block-direction\">لتكوين السؤال نقوم بوضع كلمة \"is\" في لبداية </p> </div>"
+    },
+
+    "lesson-3": {
+      "title": "تعلم النفي  ",
+      "Words": [
+        "a laptop",
+        "a phone",
+        "a teacher",
+        "a student",
+        "a floor",
+        "a ceiling",
+        "a wall",
+        "a window"
+      ],
+      "explain": "<div style=\"direction : rtl \" ><span class = \"topic\" > لنفي جملة : </span><br><span>this is a laptop => </span><span>this is not a laptop </span> <br> <span>that is a phone => </span><span>that is not a phone</span> <span class = \"topic\" >الشرح :</span><br><p>لنفي جملة نضيف كلمة \" not \" بعد كلمة \"is\" في الجملة</p> </div>"
+    },
+    "lesson-4": {
+      "title": "A & AN  المفرد ",
+      "Words": [
+        "police officer",
+        "a doctor",
+        "a fireman",
+        "a boy",
+        "a girl",
+        "a baby",
+        "an egg",
+        "an apple",
+        "an orange",
+        "an icecream ",
+        "an umbrella"
+      ],
+      "explain": "<div class=\"block-direction\"><span class=\"block-direction\">أدوات المفرد : </span><br><span>A | AN</span><br><p class=\"block-direction\">توضع قبل الإسم للدلالة على أنه مفرد </p><br><span><span class=\"direction\">An :</span> توضع قبل الاسم المفرد المبدوء بصوت \"a\"</span><br><span><span class=\"direction\">A :</span> توضع قبل كل الأسماء المفردة عدا المبدوءة بصوت \"a\"</span></div><span class=\"topic block-direction\">أمثلة :</span><br><span>a laptop | </span><span>an apple</span><br><span>a phone |</span><span>an orange</span></div> "
+    }
+  },
+  {
+    "lesson-1": {
+      "title": "  التحدث عن الملكية\"have\"",
+      "Words": [
+        "A PC",
+        "A radio",
+        "Television",
+        "a lamp",
+        " a fridge",
+        "a washing machine",
+        "a telephone",
+        "a camera",
+        "a cell phone"
+      ],
+      "explain": "<div class=\"topic block-direction\">الضمائر<ul style =\" list-style: none;text-align: center; margin-bottom: 10px; \"><li>أنا : I</li><li>أنت : you</li><li>نحن : we </li><li>هم : they </li></ul></div><span class=\"direction\"><span class=\"direction-ltr\">have : </span>لديك - لدي - لدينا - لديهم </span><br><span class =\"block-direction\">الشرح : </span><div class = \"direction\">نستخدم  \"have\" مع الضمائر المذكورة مسبقا والأسماء الجمع  </div> </div>"
+    },
+    "lesson-2": {
+      "title": "التحدث عن الملكية \"has\"",
+      "Words": [
+        "A wallet",
+        "a bag",
+        "a blouse",
+        "jeans",
+        "a boot",
+        "a coat",
+        "a belt",
+        "a shirt",
+        " adress",
+        "a glove"
+      ],
+      "explain": "<div class=\"topic block-direction\">الضمائر<ul style =\" list-style: none;text-align: center; margin-bottom: 10px; \"><li> هو : he</li><li>هي  : she</li><li>هو/هي لغير العاقل  : it </li></ul></div><span class=\"direction\"><span class=\"direction-ltr\">has : </span> لديه لديها </span><br><span class =\"block-direction\">الشرح : </span><div class = \"direction\">نستخدم  \"has\"  مع الضمائر المذكورة مسبقا والأسماء المفرد </div> </div>"
+    },
+    "lesson-3": {
+      "title": "التعبير عن أماكن الأشياء",
+      "Words": [
+        "A ring",
+        "earrings",
+        "glasses",
+        "a watch",
+        "a handbag",
+        "a suit",
+        "shorts",
+        "a necklace",
+        "a scarf",
+        "a jacket"
+      ],
+      "explain": "<div class =\" direction\">التعبير عن الأماكن</div><br><div style = \"text-align : center \"><span>on : على </span><br><span> in  : في </span></div><div class=\"direction\">أمثلة : </div><div><span>the handbag is on the table</span><br><span>the rin is in the cabinet</span></div>"
+    },
+
+    "lesson-4": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-5": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-6": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-7": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+
+    "lesson-8": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-9": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-10": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-11": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-12": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-13": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    }
+  },
+  {
+    "lesson-1": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-2": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-3": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-4": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+
+    "lesson-5": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-6": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-7": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-8": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-9": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    }
+  },
+  {
+    "lesson-1": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-2": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-3": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-4": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+
+    "lesson-5": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-6": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-7": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-8": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-9": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    }
+  },
+  {
+    "lesson-1": {
+      "title": " تعلم كلمات جديدة من خلال نص ",
+      "Words": [
+        "sick",
+        "much",
+        "hrlpful",
+        "Circus",
+        "laugh",
+        "a clown",
+        "Leather",
+        "lazy ",
+        "job",
+        "quit",
+        "Housewife / housewives",
+        "knife  / knives",
+        "cook",
+        "study",
+        "patient"
+      ],
+      "explain": "<div class=\"topic\"><span class=\"block-direction\">النص الأول</span><p>this is my friend Jane , she works in a hospital ,she helps sick people ,she loves her job very much ,Jane is very helpful that man is my uncle Fred ,uncle Fred is funny ,he works in the circus ,he makes people laugh ,uncle Fred is a clown ,he is not angry but doesn't like angry people</p><span class=\"block-direction\">النص الثاني</span><p>These are my grandparents they are workers they ,they make leather bags ,they are not lazy ,but they don’t like their job ,they want to quit those women are my aunts ,they are housewives , they like to cook and study with their children ,they are very patient , I love y aunts </p></div>"
+    },
+    "lesson-2": {
+      "title": "  محادثات ومواقف 1",
+      "Words": [
+        "understand",
+        "do",
+        "great",
+        "continue",
+        "mall / shppingmall",
+        "ticket",
+        "which",
+        "here",
+        "basketball",
+        "Excuse me",
+        "coffee"
+      ],
+      "explain": "<div class=\"conversation\"><span class=\"block-direction\">المحادثة الأولى</span><p>Teacher : do you understand ?</p><p>Students : yes , we do </p><p>teacher : great , do you want to continue</p><p>no , we don’t</p></div> <div><span class=\"block-direction\">الشرح : </span> <p>في البداية  \"do\" لتكوين سؤال نضع </p> </div>  <div class=\"conversation\"><span class=\"block-direction\">المحادثة الثانية</span><p>Marc and Tom are here</p><p>do you have a ticket </p><p>yes , I do  , do you know which mall </p><p>no I don’t</p></div>   <div class=\"conversation\"><span class=\"block-direction\">المحادثة الثالثة </span><p>Marc and Tom are here </p><p>do they love basketball ?</p><p> yes , they do  </p><span style= \"text-align : center ; display : block ;\">--</span><p>do they love basketball ?</p><p>No , they don’t </p></div>  <div class=\"conversation\"><span class=\"block-direction\">المحادثة الرابعة</span><p>excuse me </p><p>do we know you</p><p> no , you don’t , do you need coffee </p><p>yes , we do </p></div>"
+    },
+    "lesson-3": {
+      "title": "محادثات ومواقف  2 ",
+      "Words": [
+        "\"UK\" soccer",
+        "Cooking",
+        "become ",
+        "a cook ",
+        "Sing ",
+        "singer ",
+        "song(s)",
+        "cry",
+        "play (verb)",
+        "the play (noun)"
+      ],
+      "explain": "    <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الأولى</span><p>Does he go to the sports club ?</p><p>Yes , he does</p><p>does he play soccer</p><p>no , he doesn’t</p></div>  <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثانية </span><p>Does she love cooking</p><p>yes , she does</p><p>does she want to become a cook </p><p>no , she doesn’t</p></div>  <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثالثة </span><p>Does marc sing</p><p>yes , he does </p><p>does he play music , too</p><p>no he doesn’t </p></div>  <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثالثة </span><p>Does the actor cry in the play </p><p>yes , he does </p><p>does your friend enjoy the play</p><p>yes , he does</p></div>"
+    },
+    "lesson-4": {
+      "title": "محادثات ومواقف 3 ",
+      "Words": [
+        "cinema",
+        "join",
+        "Think",
+        "a lot of ",
+        "time",
+        "tomorrow",
+        "Maybe",
+        "well",
+        "tonighr",
+        "thanks for",
+        "Invitation",
+        "Cake",
+        "Why",
+        "because",
+        "sweet",
+        "some"
+      ],
+      "explain": "<div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الأولى </span><p>There is a good movie in the cinema does she want to join ? </p><p>no , I think she can’t , she has a lot of work  </p><p>okay , does she have time tomorrow</p><p>no he doesn’t  </p><p>Well , do you want to come to the cinema tonight </p><p>yes , I think I can join , thanks for the invitation</p></div> <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثانية  </span><p>Does she like cake ?</p><p>no , she doesn’t like cake </p><p>why</p><p>because she doesn’t like sweet things </p><p>I understand , but do you want some cake ?</p><p>yes , sure  </p></div> <div><span class=\"block-direction\">الشرح : </span> <ul><li>اسألني : ask me </li> <li> اسألها  : ask her </li> <li>اسأله : ask him</li></ul> </div>  "
+    },
+
+    "lesson-5": {
+      "title": " تعلم كلمات جديدة من خلال نص ",
+      "Words": [
+        "everyday",
+        "wake up",
+        "breakfast",
+        "then",
+        "start",
+        "exercise",
+        "return",
+        "tired",
+        "tell",
+        "rest",
+        "first",
+        "evening "
+      ],
+      "explain": "<div class=\"topic\"><span class=\"block-direction\"> النص </span><p>Everyday I wake up at 9 , I drink a lot  of water ,and eat my breakfast then I start to exercise I return to the house tired , but my mother asks me to do many things , I tell her I need to rest first In the evening I call my friend and invite him to go to the cinema with me , we go to the cinema and enjoy the movies , then we return to our houses happy , we like the cinema so much </p></div> <div><span class=\"block-direction\">الشرح</span><ul> <li> العديد من : many</li><li>الكثير من  : much</li><li> الوفرة من  : a lot of </li></ul> </div>"
+    },
+    "lesson-6": {
+      "title": "تعلم السؤال ب there",
+      "Words": [
+        "Geography ",
+        "maps",
+        "classroom",
+        "different ",
+        "Subjects ",
+        "history",
+        "library",
+        "smart board",
+        "students"
+      ],
+      "explain": "<div class=\"conversation\"><span class=\"bloc-direction\">المحادثة الأولى   </span><p>Do you like your geography lessons ?</p><p>yes , I do  </p><p>Great , are there maps in your classroom</p><p>yes , there are different maps</p><p>do you like other subjects</p><p>yes , I like history too</p></div> <div><span class=\"block-direction\">الشرح : </span> <p>في البداية  \"are\"نضع\"there\"لتكوين سؤال بـ</p> </div>   <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثانية  </span><p>Are there history books in your classroom ?</p><p>no there aren’t history books in the classroom , there are history books in the library </p><p>is there a smart board  in your classroom</p><p>yes , there is a smart board in our classroom </p><p>are there many students ?</p><p>No ,there aren’t many students  </p> </div>"
+    },
+    "lesson-7": {
+      "title": "  التعبير عن الماضي 1",
+      "Words": [
+        "yesterday",
+        "games",
+        "after",
+        "finished",
+        "visited",
+        "museum",
+        "city",
+        "took pictures of",
+        "status",
+        "old",
+        " scene",
+        "delicious",
+        "food"
+      ],
+      "explain": "<div class=\"topic\"><spn class=\"block-direction\">النص</span><p class=\"direction-ltr\">Yesterday my friend  and I played  games on the computer together after we finished , we started painting then we watched the television last week , we visited our a beautiful museum in the city we took pictures of many status and enjoyed the old scene we return to our houses and cooked delicious food</p><span class = \"block-direction\">الشرح</span><p class=\"block-direction\"> لتحويل فعل الى الماضي نضيف \"ed\" الى آخره  </p><p class=\"block-direction\">إذا كان ينتهي بـ\"e\" نكتفي بإضافة \"d\"</p><span class=\"block-direction\">ميثال</span><span>play => played</span></div>"
+    },
+    "lesson-8": {
+      "title": "التعبير عن الماضي 2 ",
+      "Words": [
+        "last",
+        "saw => see",
+        "kinds",
+        "animals",
+        "weather",
+        "at the end of ",
+        "had => have",
+        "ate => eat",
+        "fruit",
+        "drank => drink"
+      ],
+      "explain": "<div class=\"topic\"><span class= \"block-cirection\">النص</span><p>Last week we went on trip to the zoo , We saw different kinds of animals , we took a lot of pictures , We were so happy we  enjoyed the scene , The  weather was nice , too We had some rest then we ate a lot of fruit and drank a lot of water</p><span class=\"block-direction\">الشرح</span><p class\"block-direction\"> \"we they you \"تضاف قبل الضمائر\"were\"   وكل اسم جمع لتعني كان(و) </p></div>"
+    },
+    "lesson-9": {
+      "title": "تعلم النفي في الماضي ",
+      "Words": ["enough", "homeWork"],
+      "explain": "<div class=\"topic\"><span class=\"block-direction\">النفي</span><p class=\"block-direction\">لكي تنفي في الماضي تضيف \"didn't\" قبل الفعل مباشرة وتضع الفعل في شكله الأساسي </p><span class= \"block-direction\">ميثال </span><p>I didn’t go to school yesterday </p></div>"
+    },
+    "lesson-10": {
+      "title": "التدرب على الماضي ",
+      "Words": [
+        "first",
+        "restaurant",
+        "wonderful",
+        "view",
+        "dishes",
+        "Second",
+        "shopping",
+        "market",
+        "shop",
+        "bought => buy",
+        "valueable",
+        "souvenirs",
+        "gift",
+        "next",
+        "spent => spend",
+        "whole",
+        "swam => swim",
+        "short",
+        "holiday",
+        "entertaining",
+        "relaxing",
+        "at the same time",
+        "excited",
+        "wentback => go back "
+      ],
+      "explain": "<div class=\"topic\"><span class=\"block-direction\">النص</span><p>Last summer my friends and I went to  Hurghada , on the first day ,we went to a very good restaurant , it had a  wonderful view of the sea ,we loved the seen ,the dishes were very delicious <br> On the next day we spent the whole day at the beach ,we swam and had a great time , it was a short holiday but  it was very entertaining and relaxing at the same time , we went back to our houses very excited</p><span class=\"block-direction\">تدريب</span><div class=\"exercise\"><span class=\"correct\" hidden>went to</span><p>On the first day they<input type=\"text\" placeholder=\"أكملي الفراغ بكلمتين\">a restaurant</p></div> <div class=\"exercise\"><span class=\"correct\" hidden>dishes</span><p>the <input type=\"text\" placeholder=\"كلمة واحدة\">were very delicious </p></div> <div class=\"exercise\"><span class=\"correct\" hidden>second</span><p>on the <input type=\"text\" placeholder=\"كلمة واحدة\">day</p></div> <div class=\"exercise\"><span class=\"correct\" hidden>bought</span><p>they <input type=\"text\" placeholder=\"كلمة واحدة\">souvenirs and gifts </p></div>  </div>"
+    },
+    "lesson-11": {
+      "title": "السؤال على الماضي",
+      "Words": ["austria", "Clothes", "try"],
+      "explain": "    <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الأولى   </span><p>Did your friend travel to Austria ?</p><p>Yes , he did </p><p>did he enjoy the trip ?</p><p>Yes , he enjoyed the trip a lot  </p></div> <div><span class=\"block-direction\">الشرح</span><p class=\"block-direction\">  لتحويل جملة عادية الى سؤال في الماضي نضع في البداية  \"did\"  </p><span class = \"block-direction\">ميثال</span><p>did your friend travel to Austria?</p></div>    <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثانية    </span><p>Did you buy new clothes? </p><p>Yes, I bought very wonderful clothes  </p><p>did you spend all the money </p><p> yes , I did </p></div>   <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الثاالثة     </span><p>Did your family like the new restaurant  </p><p>yes , they did </p><p>did they try all the dishes</p><p>no , they didn’t </p></div>   <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الرابعة      </span><p>Did the children go to the beach yesterday ?</p><p>yes , they did </p><p>did they love it ?</p><p>Yes, they like it a lot they swam and played with the sand </p></div>     <div class=\"conversation\"><span clas=\"bloc-direction\">المحادثة الأخيرة       </span><p>did the man climb the mountain ?Yes, The man climbed the mountain </p><p>- did the student understand the lesson ? No , the student didn’t understand the lesso</p><p>did the boy eat the cake ?Yes, the boy ate the cake  </p><p>- did the man drink his coffee No , the man didn’t drink his coffee  </p><p>did the girl go to the garden ? Yes , the girl went to the garden </p></div>"
+    },
+    "lesson-12": {
+      "title": "تدرب على الوحدة وكلمات جديدة",
+      "Words": [
+        "\"UK\" flat",
+        "\"US\" apartment",
+        "lovely",
+        "area",
+        "balcony",
+        "finally",
+        "found => find",
+        "glad",
+        "like \"noun\"",
+        "Decorate ",
+        "filled => fill",
+        "plants",
+        "put",
+        "light"
+      ],
+      "explain": "<div class=\"topic\"><span class=\"block-direction\">النص</span> <p>Hi , my name is Jane ,last week a bought a new flat ,the flat is big and lovely , it’s in a lovely area , too it has three room but it doesn’t have a balcony ,I finally found this flat , I am glad and excited , I searched a lot but I didn’t find a flat like this  </p> </div> There are two big windows in the flat , there is a fridge a television , a bookcase there are many good things in this flat my friend Sara helped me to decorate  it, I filled it with many flowers and plants , I put deferent kinds of light ,too I love my flat "
+    }
+  },
+  {
+    "lesson-1": {
+      "title": "محادثة تفاعلية ",
+      "Words": ["present"],
+      "explain": "<div class=\"conversation\"><span class=\"bloc-direction\">المحادثة </span><p> Hi ,is this a new shirt ?  </p><div class=\"exercise\"><span class=\"correct\" hidden>Yes this is a new shirt</span><p> <input type=\"text\" placeholder=\"نعم هذا قميص جديد\"> </p></div><p>it looks good ,did you buy it yesterday </p><div class=\"exercise\"><span class=\"correct\" hidden>yes I did  do you like it </span><p> <input type=\"text\" placeholder=\" نعم , فعلت , هل يعجبك \"> </p></div><p> yes , I do , it looks beautiful  </p><div class=\"exercise\"><span class=\"correct\" hidden>I have another one for you </span><p> <input type=\"text\" placeholder=\"لدي واحد آخر من أجلك \"> </p></div><p>really , wow , thank you  but why </p><div class=\"exercise\"><span class=\"correct\" hidden>it is a present </span><p> <input type=\"text\" placeholder=\" إنه هدية \"> </p></div><p>no , it’s a souvenir from your trip , right </p><div class=\"exercise\"><span class=\"correct\" hidden>Do you know about my trip  Did jack tell you </span><p> <input type=\"text\" placeholder=\" أنت تعرف بشأن رحتي , هل أخبرك جاك ؟  \"></p></div><p>No , jack didn’t tell me anything ,Sarah told me  </p><div class=\"exercise\"><span class=\"correct\" hidden> Sarah talks much </span><p> <input type=\"text\" placeholder=\" سارة تتحدث كثيرا  \"> </p></div><p>yes she does , I wanted to come with you</p><div class=\"exercise\"><span class=\"correct\" hidden> Oh  sorry next time we can go together  </span><p> <input type=\"text\" placeholder=\" أوه وآسف المرة القادمة يمكننا أن نذهب سويا  \"></p></div><p>all right , no problem , you should tell me next time</p><div class=\"exercise\"><span class=\"correct\" hidden>sure I am sorry again  </span><p> <input type=\"text\" placeholder=\" بالطبع , أنا آسف مرة أخرى\"> </p></div><p>don’t worry about it , I’m a big boy ,I am not sad </p><div class=\"exercise\"><span class=\"correct\" hidden> Thank you I should go now  I do not want to be late for work  </span><p> <input type=\"text\" placeholder=\" شكرا , يفترض أن أذهب الآن ,لا أريد أن أتأخر عن العمل \"> </p></div><p>oh yes please go see you next time </p><div class=\"exercise\"><span class=\"correct\" hidden> bye bye </span><p> <input type=\"text\" placeholder=\" باي باي \">  </p></div</div>"
+    },
+    "lesson-2": {
+      "title": "محادثات تفاعلية",
+      "Words": ["painting"],
+      "explain": "<div class=\"conversation\"><span class=\"bloc-direction\">المحادثة </span><p>Are there your books ?  </p><div class=\"exercise\"><span class=\"correct\" hidden>Yes these are my books</span><p> <input type=\"text\" placeholder=\" نعم هذه كتبي \"> </p></div><p>great , do you love reading ?</p><div class=\"exercise\"><span class=\"correct\" hidden>yes I love reading so much  reading is my hobby  </span><p> <input type=\"text\" placeholder=\" نعم أنا أحب القراءة كثيرا ,القراءة هي هوايتي  \"> </p></div><p>Really , that’s great , reading is so important ,I think I can find you in the bookstore all the time , right ? </p><div class=\"exercise\"><span class=\"correct\" hidden>Yeah you can find me in the library at school too I love it  </span><p> <input type=\"text\" placeholder=\" نعم و تستطيع أن تجدني في مكتبة المدرسة أيضا ,أنا أحبها  \"> </p></div><p>So interesting , do you have other hobbies , too </p><div class=\"exercise\"><span class=\"correct\" hidden>Yes many I love playing music learning languages and painting   </span><p> <input type=\"text\" placeholder=\" نعم العديد  أنا أحب لعب الموسيقى وتعلم اللغات والرسم بالألوان  \"> </p></div><p>nice can I see your paintings ? </p><div class=\"exercise\"><span class=\"correct\" hidden>yes  sure but I think I do not have them now with me </span><p> <input type=\"text\" placeholder=\" نعم بالتأكيد ولكن أعتقد أنهم ليسوا معي الآن   \"></p></div><p> Okay , don’t worry maybe next time  </p><div class=\"exercise\"><span class=\"correct\" hidden> Sure  </span><p> <input type=\"text\" placeholder=\" أكيد   \"> </p></div><p>yeah , but did you know there is a new book for Paulo Coelho , did you buy it</p><div class=\"exercise\"><span class=\"correct\" hidden> no I did not  but thank you I should buy it</span><p> <input type=\"text\" placeholder=\" لا لم أفعل , ولكن شكرا ,يستحسن أن أشتريه   \"></p></div><p>Great , it was nice meeting and talking to you ,dear </p><div class=\"exercise\"><span class=\"correct\" hidden> thanks a lot </span><p> <input type=\"text\" placeholder=\" شكرا جزيلا \"> </p></div>"
+    },
+    "lesson-3": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-4": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+
+    "lesson-5": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-6": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-7": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-8": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    },
+    "lesson-9": {
+      "title": "Unset Yet",
+      "Words": ["No Words"],
+      "explain": "Empty"
+    }
+  }
+]

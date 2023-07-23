@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .comming {
+            width : 500px ; 
+            height : 500px ; 
+            border-radius: 6px;
+            background-color: white;
+            color : blue ; 
+            border : 1px solid blue ; 
+            font-size: 50px ;
+            font-weight : bold ; 
+            display : flex ; 
+            justify-content: center;
+            align-items: center;
+            margin : auto ; 
+        }
+    </style>
+    <div class="words">
+    </div>
+    <script>
+        function getLessonsInfo(){
+
+let request = new XMLHttpRequest();
+request.onreadystatechange = function (){
+    if(this.status === 200 && request.readyState === 4){
+        let myRequest = JSON.parse(this.responseText)
+        for(let i = 0 ; i < myRequest.length ; i++){
+            for(let j = 0 ; j<Object.keys(myRequest[i]).length ; j++){
+                console.log(`Words Of lesson ${j+1} lesson title ${myRequest[i][`lesson-${j+1}`].title} Unit ${i+1}`)
+                console.log(myRequest[i][`lesson-${j+1}`].Words)
+            }
+        }
+    }
+
+
+
+        
+}
+    request.open("GET" , "../data/units/A1 units/lessons.json")
+    request.send();
+}
+getLessonsInfo()
+    </script>
+</body>
+</html>

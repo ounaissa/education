@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../../css/all.min.css">
+
+    <title>Start Learning</title>
+</head>
+<body>
+    <style>
+        :root{
+    --main-color : #c8c5ff ; 
+    --hover-color : #6c63ff ; 
+}
+        .container{
+            display : flex ; 
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .box {
+            width: 200px;
+            height: 200px;
+            border-radius: 6px;
+            box-shadow: 0 0 10px #eee;
+            display: flex;
+            justify-content: center;
+            align-items: center ;
+            margin-left : 25px ; 
+                }
+                .box i {
+                    display: block;
+                    text-align: center;
+                    margin: 10px;
+                    font-size: 70px;
+                    color: var(--hover-color);
+                }
+                .box a {
+                    text-decoration: none;
+                    text-align: center;
+                    font-size: 25px;
+                    color: black;
+                    font-weight: bold;    
+                          }
+                @media (max-width : 767px) {
+                    .container{
+                        flex-direction: column;
+                    }
+                    .box {
+                        margin: 20px auto ;
+                     }
+                }
+    </style>
+    <div class="container">
+    <div class="box data">
+        <a href="data/levels/index.html"><i class="fa-solid fa-chalkboard"></i> الدروس </a>
+    </div>
+
+    <div class="box exams">
+        <a href="exams/index.html"><i class="fa-solid fa-list-check"></i> الاختبارات</a>
+    </div>
+    <div class="box revisin">
+        <a href="revision/index.html"><i class="fa-solid fa-book-open-reader"></i> المراجعة </a>
+    </div>
+</div>
+</body>
+</html>
