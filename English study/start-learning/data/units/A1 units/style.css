@@ -197,4 +197,7 @@ body {
   width: 90%;
   text-align: center;
 }
+.exercise input::placeholder {
+  color: white;
+}
 /* Frame work */
