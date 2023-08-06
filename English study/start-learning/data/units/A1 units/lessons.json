@@ -528,10 +528,15 @@
     }
   },
   {
-    "lesson-1": {
+      "lesson-1": {
       "title": "إضافة \"S\" للفعل",
       "Words": ["because", "toy"],
-      "explain": "<div><ul style=\"list-style: none;\"><li>Jane plays basketball</li><li>my friend watches the television</li><li>the child cries because he wants his toy</li><li>time flies</li><li>my sister goes to school everyday</li><li>my mother buys many things</li><li>Jack enjoys the weather</li></ul><hr><span class=\"block-direction\">إذا كان الفعل ينتهي بحرف من أحد هذه الحروف (ch sh o x s z ) نضيف \"es\" بدلا من \"s\"</span><span class=\"block-direction\">مثل : Goes</span></div><hr><span class=\"block-direction\">إذا كان الفعل ينتهي بحرف \"Y\" نزيله ونضع  \"ies\"</span><span class=\"block-direction\">مثل : cry</span><span class=\"block-direction\">ملاحظة : إذا كان قبل الفعل أحد الحروف المتحركة المعروفة قد نضيف الى إخره \"s\" مباشرة  مثل \"buy => buys\"</span>"
+      "explain": "<div><ul style=\"list-style: none;\"><li>Jane plays basketball</li><li>my friend watches the television</li><li>the child cries because he wants his toy</li><li>time flies</li><li>my sister goes to school everyday</li><li>my mother buys many things</li><li>Jack enjoys the weather</li></ul><hr><span class=\"block-direction\">إذا كان الفعل ينتهي بحرف من أحد هذه الحروف (ch sh o x s z ) نضيف \"es\" بدلا من \"s\"</span><span class=\"block-direction\">مثل : Goes</span></div><hr><span class=\"block-direction\">إذا كان الفعل ينتهي بحرف \"Y\" نزيله ونضع  \"ies\"</span><span class=\"block-direction\">مثل : cry</span><span class=\"block-direction\">ملاحظة : إذا كان قبل الفعل أحد الحروف المتحركة المعروفة قد نضيف الى إخره \"s\" مباشرة  مثل \"buy => buys\"</span><hr><div><span class=\"block-direction\">ضمائر المفعول</span><ul style=\"list-style : none\"><li>us :نا\"التي تكون في آخر الجملة\" </li><li>them :هم\"التي تكون في آخر الجملة\" </li></ul><span class=\"block-direction\">أمثلة</span><p>teach us : يعلموننا</p><p>help them : يساعدونهم</p></div>"
+    },
+    "lesson-2": {
+      "title" : "تعلم استخدام whose",
+      "Words" : ["take (someone) for a walk" , "Follow" ,"so" ,"friendly","whose"],
+      "explain" : "<div><span class=\"block-direction\">النص : </span><p>Hello ma name is James and I am with my parents , David and Kate ,I love them very much there is also my sister Jessie , do you see her ? She is so cute , right and there is our dog , lucky , I always take him for a walk after school our dog loves us very much , he always wants to follow us everywhere we go my parents are doctors , so lucky doesn’t see them much but when mom goes shopping ,he always wants to go with her ,lucky is a friendly dog my sister and I sometimes take him to see our friends  he loves them ,too ,and of course ,likes to play with their cat</p><hr><span class=\"block-direction\">استخدام whose</span><span class=\"block-direction-ltr\">whose : لمن</span> <span>whose+الشيئ الذي نسأل عنه+ is this</span> <span class=\"block-direction\">مثال</span><p>whose book is this?</p></div>"
     }
   }
 ]
