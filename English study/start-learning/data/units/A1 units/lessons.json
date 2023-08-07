@@ -538,5 +538,24 @@
       "Words" : ["take (someone) for a walk" , "Follow" ,"so" ,"friendly","whose"],
       "explain" : "<div><span class=\"block-direction\">النص : </span><p>Hello ma name is James and I am with my parents , David and Kate ,I love them very much there is also my sister Jessie , do you see her ? She is so cute , right and there is our dog , lucky , I always take him for a walk after school our dog loves us very much , he always wants to follow us everywhere we go my parents are doctors , so lucky doesn’t see them much but when mom goes shopping ,he always wants to go with her ,lucky is a friendly dog my sister and I sometimes take him to see our friends  he loves them ,too ,and of course ,likes to play with their cat</p><hr><span class=\"block-direction\">استخدام whose</span><span class=\"block-direction-ltr\">whose : لمن</span> <span>whose+الشيئ الذي نسأل عنه+ is this</span> <span class=\"block-direction\">مثال</span><p>whose book is this?</p></div>"
     }
+     "lesson-3": {
+      "title": "abverb of manner",
+      "Words": [
+        "walk",
+        "slow => slowly",
+        "Quickly  =>  quick",
+        "quiet",
+        "talk",
+        "Lazy",
+        "sad",
+        "loud => loudly",
+        "good",
+        "well",
+        "hard",
+        "players",
+        "win"
+      ],
+      "explain": "<div><p class=\"block-direction\">لتكوين حال من الصفة نقوم بإضافة المقطع\"ly\"في آخر الكلمة في أغلب الأحيان ولكن هناك استثناءات</p><span class=\"block-direction\">أمثلة</span><ul style=\"list-style : none; \"><li>he walked slowly</li></ul><span class=\"block-direction\">أمثلة على الاستثنئات</span><ul style = \"list-style : none; text-align : center;\"><li>fast : تبقى كماهي</li><li> : الحال والصفة كلمتان مختلفتان<br> good-well </li></ul></div>"
+    }
   }
 ]
