@@ -556,6 +556,11 @@
         "win"
       ],
       "explain": "<div><p class=\"block-direction\">لتكوين حال من الصفة نقوم بإضافة المقطع\"ly\"في آخر الكلمة في أغلب الأحيان ولكن هناك استثناءات</p><span class=\"block-direction\">أمثلة</span><ul style=\"list-style : none; \"><li>he walked slowly</li></ul><span class=\"block-direction\">أمثلة على الاستثنئات</span><ul style = \"list-style : none; text-align : center;\"><li>fast : تبقى كماهي</li><li> : الحال والصفة كلمتان مختلفتان<br> good-well </li></ul></div>"
+    }, 
+    "lesson-4" :{
+      "title" : "أدوات الربط" ,
+      "Words" : ["generous" , "important" , "save" , "more" , "or" , "expensive" ," cheap" , "but"] , 
+      "explain" : "<div><span class=\"block-direction\">النص : </span><p>My wife and I want to buy a house , but we don’t have enough money Houses are so expensive now ,we can buy a small and cheap house or we can buy a car I think buying a car is so important because we can use it to go to work ,but my wife thinks we should save more money to buy a big house</p></div>"
     }
   }
 ]
